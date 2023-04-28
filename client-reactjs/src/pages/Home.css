@@ -4,7 +4,6 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    overflow-x: hidden;
 }
 
 .home-message-icon {
@@ -15,20 +14,19 @@
 
 /* ---- */
 
-  
-  .home__bg h1 {
+.home__bg h1 {
     font-size: 3rem;
     text-align: center;
     margin-bottom: 0;
-  }
-  
-  .home__bg p {
+}
+
+.home__bg p {
     font-size: 1.5rem;
     text-align: center;
     margin-top: 0;
-  }
-  
-  .home__bg .btn-success {
+}
+
+.home__bg .btn-success {
     margin-top: 2rem;
     display: flex;
     align-items: center;
@@ -41,9 +39,9 @@
     transition: 0.3s;
     margin-bottom: 520px;
     margin-left: 40%
-  }
-  
-  .home__bg .btn-success:hover {
+}
+
+.home__bg .btn-success:hover {
     background-color: #28a745;
     border-color: #28a745;
-  }
+}
